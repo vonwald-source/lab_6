@@ -1,0 +1,8 @@
+---
+title: "About"
+format: html
+---
+
+# About Me
+
+This website was created for AD688 using Quarto and PySpark on AWS EC2.
