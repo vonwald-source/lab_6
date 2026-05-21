@@ -1,20 +1,8 @@
 ---
 title: "Home"
 format: html
-jupyter: python3
 ---
 
-# PySpark Example
+# AD688 Website
 
-```{python}
-from pyspark.sql import SparkSession
-
-spark = SparkSession.builder.appName("demo").getOrCreate()
-
-df = spark.createDataFrame([
-    ("Alice", 25),
-    ("Bob", 30)
-], ["name", "age"])
-
-df.show()
-```
+This website was created on AWS EC2 using Quarto.
