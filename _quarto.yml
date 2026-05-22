@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Welcome to My Website"
+  title: "Sebastian's Website"
 
 format:
   html:
