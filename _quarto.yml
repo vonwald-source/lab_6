@@ -1,21 +1,11 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "AD688-sebastian-website"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "AD688"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: journal
     toc: true
-
-
-
