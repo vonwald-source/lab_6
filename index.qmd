@@ -1,6 +1,7 @@
 ---
 title: "Welcome to My Website"
 author: "Sebastian"
+date: today
 format:
   html:
     theme: journal
