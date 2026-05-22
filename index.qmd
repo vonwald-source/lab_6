@@ -1,11 +1,12 @@
 ---
 title: "Welcome to My Website"
-author: "Your Name"
-date: "`r Sys.Date()`"
+author: "Sebastian"
 format:
   html:
     theme: journal
     toc: true
 ---
-# Hello, World!  
-Welcome to my Quarto website.  
+
+# Hello, World!
+
+Welcome to my Quarto website.
