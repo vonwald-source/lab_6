@@ -1,21 +1,11 @@
 project:
   type: website
+  output-dir: docs
 
 website:
-  title: "y"
-  navbar:
-    left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+  title: "Welcome to My Website"
 
 format:
   html:
-    theme:
-      - cosmo
-      - brand
-    css: styles.css
+    theme: journal
     toc: true
-
-
-
