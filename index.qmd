@@ -1,10 +1,6 @@
 ---
 title: "Welcome to My Website"
 author: "Sebastian"
-format:
-  html:
-    theme: journal
-    toc: true
 ---
 
 # Hello, World!
