@@ -1,8 +1,12 @@
 ---
-title: "Home"
-format: html
+title: "Welcome to My Website"
+author: "Sebastian"
+format:
+  html:
+    theme: journal
+    toc: true
 ---
 
-# AD688 Website
+# Hello, World!
 
-This website was created on AWS EC2 using Quarto.
+Welcome to my Quarto website.
